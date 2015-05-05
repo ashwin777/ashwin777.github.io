@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Eric Jones</title>
+ <link href="http://erjjones.github.com/atom.xml" rel="self"/>
+ <link href="http://erjjones.github.com/"/>
+ <updated>2015-05-05T14:05:32+05:30</updated>
+ <id>http://erjjones.github.com</id>
+ <author>
+   <name>Eric Jones</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Don't Know Any Other Way To Love</title>
+   <link href="http://erjjones.github.com/Way-to--love"/>
+   <updated>2015-05-05T00:00:00+05:30</updated>
+   <id>http://erjjones.github.com/Way-to--love</id>
+   <content type="html">&lt;div class=&quot;row&quot;&gt;
+&lt;style type=&quot;text/css&quot;&gt;
+    p.light-text{
+        color:red;
+        font-size: 30px;
+    }
+
+&lt;/style&gt;
+&lt;div class=&quot;span9 columns fuelux&quot;&gt;
+&lt;p&gt;This is a story Anand Bongir shared on Facebook. Loved it.&lt;/p&gt;
+
+&lt;img style=&quot;width:150px; margin: 20px 0px 20px 10px&quot; src=&quot;/img/posts/heart-post.jpg&quot;/&gt;
+
+
+&lt;p style=&quot;color:#34495e&quot;&gt;&quot;So what's the plan now?&quot;&lt;/p&gt;
+
+&lt;p style=&quot;color:#2980b9&quot; &gt;&quot;Plan? I am doing everything I can to get her. I have a started working at a German auto company where I have to stand for 10-hour shifts. Their process is so intensive that they make a car every 2 minutes..&quot;
+&lt;/p&gt;
+&lt;p style=&quot;color:#34495e&quot;&gt;&quot;Whoa! Every 2 minutes?! One cannot even cook Maggi in 2 minutes and they make a freaking car!?&quot;&lt;/p&gt;
+
+&lt;p style=&quot;color:#2980b9&quot; &gt;&quot;Yes. They do. I've completed ITI course with distinction. I'll now get admission in a diploma college and pursue the job with full efforts and will leave no stone unturned for her family to accept me. I am even ready to change my religion for her!&quot;&lt;/p&gt;
+
+&lt;p style=&quot;color:#34495e&quot;&gt;&quot;Why?&quot;&lt;/p&gt;
+
+&lt;p style=&quot;color:#2980b9&quot; &gt;&quot;Because I love her, and that is the only thing that matters. The religion I belong to, the political party I support, the God I choose to follow are not what I would choose to define me. I am ready to leave everything for her, right now, only if her family accepts me.&quot;&lt;/p&gt;
+
+&lt;p style=&quot;color:#34495e&quot;&gt;&quot;Is it not too much of a sacrifice?&quot;&lt;/p&gt;
+
+&lt;p style=&quot;color:#2980b9&quot; &gt;&quot;It might be, but I'm more than happy to do it. I haven't done timepass, where I see so many people change partners every week, I have loved truly and with all my heart and I do not know any other way there is to love.&quot;&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p style='font-weight:bold'&gt;I have realised that it is these people who have loved truly suffer the most and the others get off well in life. But you know what? It is all worth it.&quot;&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 column&quot;&gt;
+            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/Blogging-Again&quot; title=&quot;Previous Post: Blogging Again&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;        &lt;/p&gt;  
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 columns&quot;&gt;    
+        &lt;h2&gt;Comments Section&lt;/h2&gt;
+        &lt;p&gt;Feel free to comment on the post but keep it clean and on topic.&lt;/p&gt; 
+        &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+        &lt;script type=&quot;text/javascript&quot;&gt;
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'ashwin7'; // required: replace example with your forum shortname
+            var disqus_identifier = '/Way-to--love';
+            var disqus_url = 'http://ashwin777.github.io/Way-to--love';
+            
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+
+
+        &lt;/script&gt;
+        &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+        &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;blog comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;!-- Twitter --&gt;
+
+
+&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
+
+
+
+
+&lt;!-- Google + --&gt;
+
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Blogging Again</title>
+   <link href="http://erjjones.github.com/Blogging-Again"/>
+   <updated>2015-05-04T00:00:00+05:30</updated>
+   <id>http://erjjones.github.com/Blogging-Again</id>
+   <content type="html">&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 columns fuelux&quot;&gt;
+        &lt;h2&gt;Why?&lt;/h2&gt;
+        &lt;p&gt;Couldn't just stay away. And &lt;a style=&quot;color:#c0392b&quot; href='http://jithe.sh/' target='_blank'&gt;Jithesh&lt;/a&gt; pushed me.&lt;/p&gt;
+        
+        &lt;h2&gt;For How Long?&lt;/h2&gt;      
+        &lt;p&gt;Hopefully for years to come &lt;/p&gt;
+        
+        &lt;p&gt;&lt;pre&gt;&lt;code&gt;ALSO FOR LOVE OF CODE&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;      
+        
+        
+        &lt;h2&gt;Future?&lt;/h2&gt;
+        &lt;p&gt;Seems Bright!&lt;/p&gt;
+
+
+        &lt;p&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot; title=&quot;See what others are saying on Hacker News&quot;&gt;&lt;img src=&quot;/img/yc500.gif&quot; title=&quot;See Blogging Again on Hacker News&quot; /&gt; Hacker News link&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 column&quot;&gt;
+            &lt;p class=&quot;pull-right&quot;&gt;      &lt;a href=&quot;/Way-to--love&quot; title=&quot;Next Post: Don't Know Any Other Way To Love&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;   &lt;/p&gt;  
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 columns&quot;&gt;    
+        &lt;h2&gt;Comments Section&lt;/h2&gt;
+        &lt;p&gt;Feel free to comment on the post but keep it clean and on topic.&lt;/p&gt; 
+        &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+        &lt;script type=&quot;text/javascript&quot;&gt;
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'ashwin7'; // required: replace example with your forum shortname
+            var disqus_identifier = '/Blogging-Again';
+            var disqus_url = 'http://ashwin777.github.io/Blogging-Again';
+            
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+
+
+        &lt;/script&gt;
+        &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+        &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;blog comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;!-- Twitter --&gt;
+
+
+&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
+
+
+
+
+&lt;!-- Google + --&gt;
+
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>
