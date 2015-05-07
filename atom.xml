@@ -4,7 +4,7 @@
  <title>Ashwin Saxena</title>
  <link href="http://blog.ashwinsaxena.com/atom.xml" rel="self"/>
  <link href="http://blog.ashwinsaxena.com/"/>
- <updated>2015-05-07T13:57:40+05:30</updated>
+ <updated>2015-05-07T14:00:51+05:30</updated>
  <id>http://blog.ashwinsaxena.com</id>
  <author>
    <name>Ashwin Saxena</name>
@@ -56,7 +56,7 @@
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = 'ashwin7'; // required: replace example with your forum shortname
             var disqus_identifier = '/be-you-wallpaper';
-            var disqus_url = 'http://blog.ashwinsaxena.com/be-you-wallpaper';
+            var disqus_url = 'http://ashwin777.github.io/be-you-wallpaper';
             
             /* * * DON'T EDIT BELOW THIS LINE * * */
             (function() {
