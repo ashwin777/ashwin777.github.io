@@ -879,4 +879,10 @@ a.social.gplus:hover {
     text-decoration: underline;
 }
 
+@media (max-width: 979px) {
+.marketing > .content {
+        margin-left: 5px!important;
+}
+}
+
 .content .row .row .row { transition:0.2s linear all } .content .row .row .row:hover { box-shadow: 0px 1px 10px #ddd; transition:0.2s linear all}
