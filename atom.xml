@@ -4,7 +4,7 @@
  <title>Ashwin Saxena</title>
  <link href="http://blog.ashwinsaxena.com/atom.xml" rel="self"/>
  <link href="http://blog.ashwinsaxena.com/"/>
- <updated>2015-10-06T22:23:10+05:30</updated>
+ <updated>2015-10-06T22:41:02+05:30</updated>
  <id>http://blog.ashwinsaxena.com</id>
  <author>
    <name>Ashwin Saxena</name>
@@ -12,25 +12,15 @@
  
  
  <entry>
-   <title>Starting Mean Stack</title>
-   <link href="http://blog.ashwinsaxena.com/starting-MEAN-stack"/>
+   <title>Starting work with MEAN stack</title>
+   <link href="http://blog.ashwinsaxena.com/starting-mean-stack"/>
    <updated>2015-10-06T00:00:00+05:30</updated>
-   <id>http://blog.ashwinsaxena.com/starting-MEAN-stack</id>
-   <content type="html">&lt;p&gt;﻿---
-layout: post
-title: Starting work with MEAN stack
-category: Technology
-tags: blog programming
-year: 2015
-month: 10
-day: 06
-published: true
-summary: Intro to MEAN stack.&lt;/p&gt;
+   <id>http://blog.ashwinsaxena.com/starting-mean-stack</id>
+   <content type="html">&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 columns fuelux&quot;&gt;
+        
 
-&lt;h2&gt;image: thumbs/mean-stack.jpg&lt;/h2&gt;
-
-&lt;div class=&quot;row&quot;&gt;   
-    &lt;style type=&quot;text/css&quot;&gt;
+            &lt;style type=&quot;text/css&quot;&gt;
         .head-title{
             font-weight:bold;
             font-style:italic;
@@ -40,20 +30,10 @@ summary: Intro to MEAN stack.&lt;/p&gt;
             text-align:center;
         }
         ul li, ul li b{
-            font-family:&quot;Roboto&quot;;
+            font-family:Roboto;
             font-size: 16px;
         }
     &lt;/style&gt;
-    &lt;!-- Facebook Shares--&gt;
-    &lt;meta property=&quot;og:title&quot; content=&quot;Starting work with MEAN stack&quot; /&gt;
-    &lt;meta property=&quot;og:description&quot; content=&quot;Just started exploring MEAN stack for a demo app I can build. Cool stuff coming soon.&quot; /&gt;
-    &lt;meta property=&quot;og:image&quot; content=&quot;http://blog.ashwinsaxena.com/img/posts/mean-stack.jpg&quot; /&gt;
-    &lt;!-- Facebook Shares--&gt;
-
-
-
-
-    &lt;div class=&quot;span9 columns fuelux&quot;&gt;      
             
         &lt;p&gt;The MEAN stack is a software bundle that allows developers to rapidly prototype and deploy performant web applications. The stack is composed of:
         &lt;/p&gt;
@@ -95,6 +75,12 @@ summary: Intro to MEAN stack.&lt;/p&gt;
         &lt;/div&gt;
         &lt;br/&gt;
 
+
+
+
+
+
+
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -103,7 +89,7 @@ summary: Intro to MEAN stack.&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;   
     &lt;div class=&quot;span9 column&quot;&gt;
-            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/why-do-anything%20-%20Copy&quot; title=&quot;Previous Post: Why do anything?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;      &lt;/p&gt;  
+            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/why-do-anything&quot; title=&quot;Previous Post: Why do anything?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;         &lt;/p&gt;  
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -118,8 +104,8 @@ summary: Intro to MEAN stack.&lt;/p&gt;
         &lt;script type=&quot;text/javascript&quot;&gt;
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = &#39;ashwin7&#39;; // required: replace example with your forum shortname
-            var disqus_identifier = &#39;/starting-MEAN-stack&#39;;
-            var disqus_url = &#39;http://blog.ashwinsaxena.com/starting-MEAN-stack&#39;;
+            var disqus_identifier = &#39;/starting-mean-stack&#39;;
+            var disqus_url = &#39;http://blog.ashwinsaxena.com/starting-mean-stack&#39;;
             
             /* * * DON&#39;T EDIT BELOW THIS LINE * * */
             (function() {
@@ -162,9 +148,9 @@ summary: Intro to MEAN stack.&lt;/p&gt;
  
  <entry>
    <title>Why do anything?</title>
-   <link href="http://blog.ashwinsaxena.com/why-do-anything%20-%20Copy"/>
+   <link href="http://blog.ashwinsaxena.com/why-do-anything"/>
    <updated>2015-10-03T00:00:00+05:30</updated>
-   <id>http://blog.ashwinsaxena.com/why-do-anything - Copy</id>
+   <id>http://blog.ashwinsaxena.com/why-do-anything</id>
    <content type="html">&lt;div class=&quot;row&quot;&gt;   
     &lt;div class=&quot;span9 columns fuelux&quot;&gt;
         &lt;h2&gt;The world is a crazy stupid place..&lt;/h2&gt;
@@ -209,7 +195,7 @@ summary: Intro to MEAN stack.&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;   
     &lt;div class=&quot;span9 column&quot;&gt;
-            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/which-language-to-learn&quot; title=&quot;Previous Post: Which Programming Language to Learn?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;             &lt;a href=&quot;/starting-MEAN-stack&quot; title=&quot;Next Post: Starting Mean Stack&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;     &lt;/p&gt;  
+            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/which-language-to-learn&quot; title=&quot;Previous Post: Which Programming Language to Learn?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;             &lt;a href=&quot;/starting-mean-stack&quot; title=&quot;Next Post: Starting work with MEAN stack&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;   &lt;/p&gt;  
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -224,8 +210,8 @@ summary: Intro to MEAN stack.&lt;/p&gt;
         &lt;script type=&quot;text/javascript&quot;&gt;
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = &#39;ashwin7&#39;; // required: replace example with your forum shortname
-            var disqus_identifier = &#39;/why-do-anything%20-%20Copy&#39;;
-            var disqus_url = &#39;http://blog.ashwinsaxena.com/why-do-anything%20-%20Copy&#39;;
+            var disqus_identifier = &#39;/why-do-anything&#39;;
+            var disqus_url = &#39;http://blog.ashwinsaxena.com/why-do-anything&#39;;
             
             /* * * DON&#39;T EDIT BELOW THIS LINE * * */
             (function() {
@@ -297,7 +283,7 @@ summary: Intro to MEAN stack.&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;   
     &lt;div class=&quot;span9 column&quot;&gt;
-            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/tvf-pitchers-lessons&quot; title=&quot;Previous Post: 5 Episodes 5 Lessons - TVF Pitchers&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;             &lt;a href=&quot;/why-do-anything%20-%20Copy&quot; title=&quot;Next Post: Why do anything?&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;     &lt;/p&gt;  
+            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/tvf-pitchers-lessons&quot; title=&quot;Previous Post: 5 Episodes 5 Lessons - TVF Pitchers&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;             &lt;a href=&quot;/why-do-anything&quot; title=&quot;Next Post: Why do anything?&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;    &lt;/p&gt;  
     &lt;/div&gt;
 &lt;/div&gt;
 
