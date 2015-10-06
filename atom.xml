@@ -4,7 +4,7 @@
  <title>Ashwin Saxena</title>
  <link href="http://blog.ashwinsaxena.com/atom.xml" rel="self"/>
  <link href="http://blog.ashwinsaxena.com/"/>
- <updated>2015-10-06T22:41:02+05:30</updated>
+ <updated>2015-10-06T22:46:00+05:30</updated>
  <id>http://blog.ashwinsaxena.com</id>
  <author>
    <name>Ashwin Saxena</name>
@@ -34,6 +34,10 @@
             font-size: 16px;
         }
     &lt;/style&gt;
+
+        &lt;meta property=&quot;og:title&quot; content=&quot;Starting work with MEAN stack&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;Trying my hands on MEAN stack to create some demo app from today. Good stuff coming soon.&quot; /&gt;
+&lt;meta property=&quot;og:image&quot; content=&quot;http://blog.ashwinsaxena.com/img/posts/thumbs/mean-stack.jpg&quot; /&gt;
             
         &lt;p&gt;The MEAN stack is a software bundle that allows developers to rapidly prototype and deploy performant web applications. The stack is composed of:
         &lt;/p&gt;
