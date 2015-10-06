@@ -4,7 +4,7 @@
  <title>Ashwin Saxena</title>
  <link href="http://blog.ashwinsaxena.com/atom.xml" rel="self"/>
  <link href="http://blog.ashwinsaxena.com/"/>
- <updated>2015-10-06T22:16:41+05:30</updated>
+ <updated>2015-10-06T22:23:10+05:30</updated>
  <id>http://blog.ashwinsaxena.com</id>
  <author>
    <name>Ashwin Saxena</name>
@@ -12,11 +12,24 @@
  
  
  <entry>
-   <title>Starting work with MEAN stack</title>
+   <title>Starting Mean Stack</title>
    <link href="http://blog.ashwinsaxena.com/starting-MEAN-stack"/>
    <updated>2015-10-06T00:00:00+05:30</updated>
    <id>http://blog.ashwinsaxena.com/starting-MEAN-stack</id>
-   <content type="html">&lt;div class=&quot;row&quot;&gt;   
+   <content type="html">&lt;p&gt;﻿---
+layout: post
+title: Starting work with MEAN stack
+category: Technology
+tags: blog programming
+year: 2015
+month: 10
+day: 06
+published: true
+summary: Intro to MEAN stack.&lt;/p&gt;
+
+&lt;h2&gt;image: thumbs/mean-stack.jpg&lt;/h2&gt;
+
+&lt;div class=&quot;row&quot;&gt;   
     &lt;style type=&quot;text/css&quot;&gt;
         .head-title{
             font-weight:bold;
@@ -196,7 +209,7 @@
 
 &lt;div class=&quot;row&quot;&gt;   
     &lt;div class=&quot;span9 column&quot;&gt;
-            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/which-language-to-learn&quot; title=&quot;Previous Post: Which Programming Language to Learn?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;             &lt;a href=&quot;/starting-MEAN-stack&quot; title=&quot;Next Post: Starting work with MEAN stack&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;   &lt;/p&gt;  
+            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/which-language-to-learn&quot; title=&quot;Previous Post: Which Programming Language to Learn?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;             &lt;a href=&quot;/starting-MEAN-stack&quot; title=&quot;Next Post: Starting Mean Stack&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;     &lt;/p&gt;  
     &lt;/div&gt;
 &lt;/div&gt;
 
