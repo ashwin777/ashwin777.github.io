@@ -4,7 +4,7 @@
  <title>Ashwin Saxena</title>
  <link href="http://blog.ashwinsaxena.com/atom.xml" rel="self"/>
  <link href="http://blog.ashwinsaxena.com/"/>
- <updated>2015-10-03T22:47:18+05:30</updated>
+ <updated>2015-10-06T22:16:41+05:30</updated>
  <id>http://blog.ashwinsaxena.com</id>
  <author>
    <name>Ashwin Saxena</name>
@@ -12,10 +12,146 @@
  
  
  <entry>
+   <title>Starting work with MEAN stack</title>
+   <link href="http://blog.ashwinsaxena.com/starting-MEAN-stack"/>
+   <updated>2015-10-06T00:00:00+05:30</updated>
+   <id>http://blog.ashwinsaxena.com/starting-MEAN-stack</id>
+   <content type="html">&lt;div class=&quot;row&quot;&gt;   
+    &lt;style type=&quot;text/css&quot;&gt;
+        .head-title{
+            font-weight:bold;
+            font-style:italic;
+        }
+
+        .centeredContent{
+            text-align:center;
+        }
+        ul li, ul li b{
+            font-family:&quot;Roboto&quot;;
+            font-size: 16px;
+        }
+    &lt;/style&gt;
+    &lt;!-- Facebook Shares--&gt;
+    &lt;meta property=&quot;og:title&quot; content=&quot;Starting work with MEAN stack&quot; /&gt;
+    &lt;meta property=&quot;og:description&quot; content=&quot;Just started exploring MEAN stack for a demo app I can build. Cool stuff coming soon.&quot; /&gt;
+    &lt;meta property=&quot;og:image&quot; content=&quot;http://blog.ashwinsaxena.com/img/posts/mean-stack.jpg&quot; /&gt;
+    &lt;!-- Facebook Shares--&gt;
+
+
+
+
+    &lt;div class=&quot;span9 columns fuelux&quot;&gt;      
+            
+        &lt;p&gt;The MEAN stack is a software bundle that allows developers to rapidly prototype and deploy performant web applications. The stack is composed of:
+        &lt;/p&gt;
+        &lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../img/posts/mean-diagram.jpg&quot; alt&quot;Mean Diagram&quot;/&gt;&lt;/p&gt;   
+        &lt;ul&gt;
+            &lt;li&gt;&lt;b&gt;AngularJS&lt;/b&gt; (browser framework)&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Express&lt;/b&gt; (web framework)&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Node.js&lt;/b&gt; (server-side runtime environment)&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;MongoDB&lt;/b&gt; (persistence layer)&lt;/li&gt;     
+        &lt;/ul&gt;
+        &lt;p&gt;I got interested in MEAN stack a few days back when I failed my MongoDB certification and I was looking for next course date on MongoDB University.&lt;/p&gt; 
+        &lt;p&gt;I already have a somewhat working knowledge of MongoDB and AngularJS. This will be a nice opportunity to explore ExpressJS and Node.js.&lt;/p&gt;
+        &lt;p&gt;I plan to build a simple ToDo list app for experimentation. Let’s see how it goes.&lt;/p&gt;
+        &lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;../img/posts/why-mean.jpg&quot; alt&quot;Why Do MEAN&quot;/&gt;&lt;/p&gt;
+
+        &lt;br/&gt;
+        &lt;h4&gt;Intro to MongoDB&lt;/h4&gt;
+        &lt;br/&gt;
+        &lt;div class=&quot;centeredContent&quot;&gt;
+            &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ClAQEARNUoQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+        &lt;br/&gt;
+        &lt;h4&gt;Intro to Express&lt;/h4&gt;
+        &lt;br/&gt;
+        &lt;div class=&quot;centeredContent&quot;&gt;
+            &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aHqnFWLP7wA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+        &lt;br/&gt;
+        &lt;h4&gt;Intro to AngularJS&lt;/h4&gt;
+        &lt;br/&gt;
+        &lt;div class=&quot;centeredContent&quot;&gt;
+            &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/b_x6C4jzO_M&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+        &lt;br/&gt;
+        &lt;h4&gt;Intro to Node.js&lt;/h4&gt;
+        &lt;br/&gt;
+        &lt;div class=&quot;centeredContent&quot;&gt;
+            &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cJVXP1bU68Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+        &lt;br/&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 column&quot;&gt;
+            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/why-do-anything%20-%20Copy&quot; title=&quot;Previous Post: Why do anything?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;      &lt;/p&gt;  
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 columns&quot;&gt;    
+        &lt;h2&gt;Comments Section&lt;/h2&gt;
+        &lt;p&gt;Feel free to comment on the post but keep it clean and on topic.&lt;/p&gt; 
+        &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+        &lt;script type=&quot;text/javascript&quot;&gt;
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = &#39;ashwin7&#39;; // required: replace example with your forum shortname
+            var disqus_identifier = &#39;/starting-MEAN-stack&#39;;
+            var disqus_url = &#39;http://blog.ashwinsaxena.com/starting-MEAN-stack&#39;;
+            
+            /* * * DON&#39;T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement(&#39;script&#39;); dsq.type = &#39;text/javascript&#39;; dsq.async = true;
+                dsq.src = &#39;http://&#39; + disqus_shortname + &#39;.disqus.com/embed.js&#39;;
+                (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(dsq);
+            })();
+
+
+        &lt;/script&gt;
+        &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+        &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;blog comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;!-- Twitter --&gt;
+
+
+&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
+
+
+
+
+&lt;!-- Google + --&gt;
+
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  (function() {
+    var po = document.createElement(&#39;script&#39;); po.type = &#39;text/javascript&#39;; po.async = true;
+    po.src = &#39;https://apis.google.com/js/plusone.js&#39;;
+    var s = document.getElementsByTagName(&#39;script&#39;)[0]; s.parentNode.insertBefore(po, s);
+  })();
+&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Why do anything?</title>
-   <link href="http://blog.ashwinsaxena.com/why-do-anything"/>
+   <link href="http://blog.ashwinsaxena.com/why-do-anything%20-%20Copy"/>
    <updated>2015-10-03T00:00:00+05:30</updated>
-   <id>http://blog.ashwinsaxena.com/why-do-anything</id>
+   <id>http://blog.ashwinsaxena.com/why-do-anything - Copy</id>
    <content type="html">&lt;div class=&quot;row&quot;&gt;   
     &lt;div class=&quot;span9 columns fuelux&quot;&gt;
         &lt;h2&gt;The world is a crazy stupid place..&lt;/h2&gt;
@@ -60,7 +196,7 @@
 
 &lt;div class=&quot;row&quot;&gt;   
     &lt;div class=&quot;span9 column&quot;&gt;
-            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/which-language-to-learn&quot; title=&quot;Previous Post: Which Programming Language to Learn?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;         &lt;/p&gt;  
+            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/which-language-to-learn&quot; title=&quot;Previous Post: Which Programming Language to Learn?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;             &lt;a href=&quot;/starting-MEAN-stack&quot; title=&quot;Next Post: Starting work with MEAN stack&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;   &lt;/p&gt;  
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -75,8 +211,8 @@
         &lt;script type=&quot;text/javascript&quot;&gt;
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = &#39;ashwin7&#39;; // required: replace example with your forum shortname
-            var disqus_identifier = &#39;/why-do-anything&#39;;
-            var disqus_url = &#39;http://blog.ashwinsaxena.com/why-do-anything&#39;;
+            var disqus_identifier = &#39;/why-do-anything%20-%20Copy&#39;;
+            var disqus_url = &#39;http://blog.ashwinsaxena.com/why-do-anything%20-%20Copy&#39;;
             
             /* * * DON&#39;T EDIT BELOW THIS LINE * * */
             (function() {
@@ -148,7 +284,7 @@
 
 &lt;div class=&quot;row&quot;&gt;   
     &lt;div class=&quot;span9 column&quot;&gt;
-            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/tvf-pitchers-lessons&quot; title=&quot;Previous Post: 5 Episodes 5 Lessons - TVF Pitchers&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;             &lt;a href=&quot;/why-do-anything&quot; title=&quot;Next Post: Why do anything?&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;    &lt;/p&gt;  
+            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/tvf-pitchers-lessons&quot; title=&quot;Previous Post: 5 Episodes 5 Lessons - TVF Pitchers&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;             &lt;a href=&quot;/why-do-anything%20-%20Copy&quot; title=&quot;Next Post: Why do anything?&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;     &lt;/p&gt;  
     &lt;/div&gt;
 &lt;/div&gt;
 
