@@ -4,12 +4,130 @@
  <title>Ashwin Saxena</title>
  <link href="http://blog.ashwinsaxena.com/atom.xml" rel="self"/>
  <link href="http://blog.ashwinsaxena.com/"/>
- <updated>2015-10-06T22:46:00+05:30</updated>
+ <updated>2015-11-03T12:04:48+05:30</updated>
  <id>http://blog.ashwinsaxena.com</id>
  <author>
    <name>Ashwin Saxena</name>
  </author>
  
+ 
+ <entry>
+   <title>Episode 1 - Tech India Weekly</title>
+   <link href="http://blog.ashwinsaxena.com/tech-india-weekly-episode-1"/>
+   <updated>2015-11-03T00:00:00+05:30</updated>
+   <id>http://blog.ashwinsaxena.com/tech-india-weekly-episode-1</id>
+   <content type="html">&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 columns fuelux&quot;&gt;
+    &lt;!--&lt;link href=&quot;http://lokeshdhakar.com/projects/lightbox2/css/lightbox.css&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;script src=&quot;http://lokeshdhakar.com/projects/lightbox2/js/lightbox-plus-jquery.min.js&quot;&gt;&lt;/script&gt; --&gt;
+    &lt;!-- BLOG CONTENT START HERE --&gt;
+
+    &lt;p&gt;Just started podcasting. Welcome to first episode of Tech India Weekly. Give this a listen / review / comment.&lt;/p&gt;
+    &lt;p&gt;I am very new to this, but I am very excited about it.&lt;/p&gt;
+
+    &lt;br/&gt;
+    &lt;br/&gt;
+
+
+    &lt;div style=&quot;text-align:center&quot; &gt;&lt;img title=&quot;Which programming language to learn - infographic&quot; src=&quot;/img/posts/podcast.jpg&quot; alt=&quot;programming-language&quot;/&gt;&lt;/div&gt;
+    &lt;br/&gt;   
+
+    &lt;h4&gt;Listen Now:&lt;/h4&gt;
+    &lt;iframe src=&quot;https://archive.org/embed/TechIndiaWeeklyEpisode1&quot; width=&quot;500&quot; height=&quot;140&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+    &lt;/br&gt;
+    &lt;/br&gt;
+
+    &lt;h4&gt;Alternate Link:&lt;/h4&gt;
+    &lt;p&gt;&lt;a href=&quot;http://techindia.podomatic.com/entry/2015-11-02T11_38_05-08_00&quot;&gt;Podomatic&lt;/a&gt;&lt;/p&gt;
+
+    &lt;h4&gt;Download:&lt;/h4&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.dropbox.com/s/5docqbct26i6nmc/TechIndiaWeekly-S01E01.mp3&quot;&gt;https://www.dropbox.com/s/5docqbct26i6nmc/TechIndiaWeekly-S01E01.mp3&lt;/a&gt;&lt;/p&gt;
+
+
+    &lt;h4&gt;Show Notes&lt;/h4&gt;
+    &lt;p&gt;1.) Future Unleashed Accelerated India Conference (5-6 November) - Mumbai:&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;
+    &lt;a href=&quot;https://msevents.microsoft.com/cui/EventDetail.aspx?EventID=1032646340&amp;culture=en-IN&quot;&gt;https://msevents.microsoft.com/cui/EventDetail.aspx?EventID=1032646340&amp;culture=en-IN&lt;/a&gt;
+    &lt;/code&gt;&lt;/pre&gt;
+
+    &lt;br/&gt;
+    &lt;p&gt;2.) Nasscom Game Developers Meet (5-7 November) - Pune:&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;
+    &lt;a href=&quot;http://www.nasscom.in/ngdc2015/&quot;&gt;http://www.nasscom.in/ngdc2015/&lt;/a&gt;
+    &lt;a href=&quot;http://ngdc2015.sched.org&quot;&gt;https://ngdc2015.sched.org&lt;/a&gt;
+    &lt;/code&gt;&lt;/pre&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;p&gt;The opening and closing theme music is provided by &lt;a href=&quot;http://podcastthemes.com&quot; no-follow&gt;podcastthemes.com&lt;/a&gt;&lt;/p&gt;
+
+        &lt;!-- BLOG CONTENT END HERE --&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 column&quot;&gt;
+            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/starting-mean-stack&quot; title=&quot;Previous Post: Starting work with MEAN stack&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;        &lt;/p&gt;  
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;row&quot;&gt;   
+    &lt;div class=&quot;span9 columns&quot;&gt;    
+        &lt;h2&gt;Comments Section&lt;/h2&gt;
+        &lt;p&gt;Feel free to comment on the post but keep it clean and on topic.&lt;/p&gt; 
+        &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+        &lt;script type=&quot;text/javascript&quot;&gt;
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = &#39;ashwin7&#39;; // required: replace example with your forum shortname
+            var disqus_identifier = &#39;/tech-india-weekly-episode-1&#39;;
+            var disqus_url = &#39;http://blog.ashwinsaxena.com/tech-india-weekly-episode-1&#39;;
+            
+            /* * * DON&#39;T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement(&#39;script&#39;); dsq.type = &#39;text/javascript&#39;; dsq.async = true;
+                dsq.src = &#39;http://&#39; + disqus_shortname + &#39;.disqus.com/embed.js&#39;;
+                (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(dsq);
+            })();
+
+
+        &lt;/script&gt;
+        &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+        &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;blog comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;!-- Twitter --&gt;
+
+
+&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
+
+
+
+
+&lt;!-- Google + --&gt;
+
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  (function() {
+    var po = document.createElement(&#39;script&#39;); po.type = &#39;text/javascript&#39;; po.async = true;
+    po.src = &#39;https://apis.google.com/js/plusone.js&#39;;
+    var s = document.getElementsByTagName(&#39;script&#39;)[0]; s.parentNode.insertBefore(po, s);
+  })();
+&lt;/script&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Starting work with MEAN stack</title>
@@ -93,7 +211,7 @@
 
 &lt;div class=&quot;row&quot;&gt;   
     &lt;div class=&quot;span9 column&quot;&gt;
-            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/why-do-anything&quot; title=&quot;Previous Post: Why do anything?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;         &lt;/p&gt;  
+            &lt;p class=&quot;pull-right&quot;&gt; &lt;a href=&quot;/why-do-anything&quot; title=&quot;Previous Post: Why do anything?&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&lt;/a&gt;             &lt;a href=&quot;/tech-india-weekly-episode-1&quot; title=&quot;Next Post: Episode 1 - Tech India Weekly&quot;&gt;&lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/a&gt;   &lt;/p&gt;  
     &lt;/div&gt;
 &lt;/div&gt;
 
